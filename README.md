@@ -1,4 +1,4 @@
-# MinPython
+# MiniPython
 
 Mini Python 3 executable for small scripts.
 
