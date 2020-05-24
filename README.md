@@ -1,2 +1,7 @@
 # MinPython
-A mini 10mb Python for bundling with other applications
+
+Mini Python 3 sub-executable for small scripts.
+
+Made by running autopytoexe.exe on a python entry-point mocker: `python.py`
+
+source: https://pypi.org/project/auto-py-to-exe/
