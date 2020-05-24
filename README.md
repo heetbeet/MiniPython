@@ -1,6 +1,6 @@
 # MinPython
 
-Mini Python 3 sub-executable for small scripts.
+Mini Python 3 executable for small scripts.
 
 Made by running autopytoexe.exe on a python entry-point mocker: `python.py`
 
